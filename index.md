@@ -1,7 +1,18 @@
 ---
-title: Home
+title: DSC80 Project4 (Housing Price)
 layout: home
 ---
+
+
+## Table of Contents
+1. Introduction
+2. Getting and Knowing Data
+3. Example Questions
+4. Clean and EDA
+5. Hypothesis Testing
+6. Future Forecasting
+
+
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
